@@ -1,0 +1,14 @@
+.containerIndex {
+    margin: 75px 175px;
+    padding: 5px;
+    background-color: white;
+}
+
+h1 {
+    margin-left: 15px;
+    color: teal;
+}
+
+img {
+    float: left;
+}

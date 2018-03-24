@@ -1,0 +1,12 @@
+body {
+    background-image: url("../images/old_wall.png")
+}
+
+.navbar-brand {
+    background-color: teal;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
