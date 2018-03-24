@@ -1,5 +1,24 @@
 .containerPortfolio {
-    margin: 75px 175px;
+    width: 960px;
+    height: 500px;
+    margin: 75px 255px 75px 255px;
     padding: 5px;
     background-color: white;
 }
+
+h1 {
+    margin-left: 15px;
+    color: teal;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+#caption {
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+
